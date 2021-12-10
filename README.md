@@ -1,1 +1,1 @@
-# 50-Projects-Using-HTML-CSS-And-JavaScrip
+# 50-Projects-Using-HTML-CSS-And-JavaScript
